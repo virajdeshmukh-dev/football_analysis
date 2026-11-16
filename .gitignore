@@ -15,6 +15,7 @@ wheels/
 output_video/
 runs/
 training/football-players-detection-1/football-players-detection-1/
+src/football_analysis/training/football-players-detection-1/football-players-detection-1/
 
 # Windows download metadata
 *:Zone.Identifier
