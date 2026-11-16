@@ -5,6 +5,16 @@ build/
 dist/
 wheels/
 *.egg-info
+.pytest_cache/
 
 # Virtual environments
-.venv
+.venv/
+
+# Machine-learning artifacts
+*.pt
+output_video/
+runs/
+training/football-players-detection-1/football-players-detection-1/
+
+# Windows download metadata
+*:Zone.Identifier
